@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.virtua_cop_fr_study.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "G:\\IFR_Study\\Virtua_Cop_FR_STUDY\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Virtua_Cop_FR_STUDY [Testing]"
+        }
+      }
+    }
+  ]
+}
