@@ -8,6 +8,8 @@ Youtube Link : [https://youtu.be/QrFcgo966rc?si=xYcThYe3yPgJiZBJ](https://youtu.
 
 Developed & Designed in Unity 3D
 
+- HMD : Vive Pro Eye
+- Eye Tracking : Using Tobii SDK
 - Model & Animation : Mixamo
 - Resources : Unity asset store
 - BGM : Call of duty : Modern Warfare 2 (IW)
