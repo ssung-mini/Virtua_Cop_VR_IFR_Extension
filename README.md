@@ -4,7 +4,7 @@ Kim, J., Kim, J., Jung, M., Kwon, T., and Kim, K.* (2024), Individualized Foveat
 
 https://link.springer.com/article/10.1007/s10055-023-00931-8
 
-Youtube Link : https://youtu.be/QrFcgo966rc?si=xYcThYe3yPgJiZBJ
+Youtube Link : [https://youtu.be/QrFcgo966rc?si=xYcThYe3yPgJiZBJ](https://youtu.be/wPfStKktp0A)
 
 Developed & Designed in Unity 3D
 
