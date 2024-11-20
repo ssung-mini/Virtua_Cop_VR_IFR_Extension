@@ -1,4 +1,4 @@
-# Virtua_Cop_VR_IFR_Extension
+# Virtua Cop VR (for IFR Extension Study)
 
 Kim, J., Kim, J., Jung, M., Kwon, T., and Kim, K.* (2024), Individualized Foveated Rendering with Eye-Tracking Head-Mounted Display, Virtual Reality, 28, 25.
 
